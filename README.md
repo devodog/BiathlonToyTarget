@@ -1,2 +1,2 @@
 # BiathlonToyTarget
-Biathlon Toy Targets senible for nerf-gun bullet hits.
+Biathlon Toy Targets sensible for nerf-gun bullet hits.
