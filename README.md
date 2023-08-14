@@ -68,7 +68,7 @@ The piezoelectric element used for this simple test / experiment, was a
 1x1x1 cm in size and has two polarized SMD (surface mounted device)
 terminals.
 
-<img src="./media/image3.png" style="width:6in;height:3.0856in" />
+<img src="./media/image3.png" style="width:3in;height:1.5in" />
 
 Figure : The piezoelectric element soldered to 3x3 cm Vero-board.
 
