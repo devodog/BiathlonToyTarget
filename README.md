@@ -68,7 +68,7 @@ The piezoelectric element used for this simple test / experiment, was a
 1x1x1 cm in size and has two polarized SMD (surface mounted device)
 terminals.
 
-<img src="./media/image3.png" style="width:6in;height:3.0856in" />
+<img src="./media/image3.png" style="width:3in;height:1.5in" />
 
 Figure : The piezoelectric element soldered to 3x3 cm Vero-board.
 
@@ -157,7 +157,7 @@ The Nerf gun bullet dart hit detector circuit design is manufactured as
 a 30x30mm PCB by use of the free CAD tool KiCad. The PCB design
 documents are part of the BiathlonToyTargets git repository.
 
-<img src="./media/image11.png" style="width:6in;height:1.50041in" /><img src="./media/image12.png" style="width:6in;height:1.50041in" /><img src="./media/image13.png" style="width:6in;height:1.50041in" />
+<img src="./media/image11.png" style="width:2in;height:0.5in" /><img src="./media/image12.png" style="width:2in;height:0.5in" /><img src="./media/image13.png" style="width:2in;height:0.5in" />
 
 Figure : PCB for the target hit detector. The rightmost uses a surface
 mounted piezo element.
