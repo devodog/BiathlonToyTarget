@@ -157,7 +157,7 @@ The Nerf gun bullet dart hit detector circuit design is manufactured as
 a 30x30mm PCB by use of the free CAD tool KiCad. The PCB design
 documents are part of the BiathlonToyTargets git repository.
 
-<img src="./media/image11.png" style="width:6in;height:1.50041in" /><img src="./media/image12.png" style="width:6in;height:1.50041in" /><img src="./media/image13.png" style="width:6in;height:1.50041in" />
+<img src="./media/image11.png" style="width:2in;height:0.5in" /><img src="./media/image12.png" style="width:2in;height:0.5in" /><img src="./media/image13.png" style="width:2in;height:0.5in" />
 
 Figure : PCB for the target hit detector. The rightmost uses a surface
 mounted piezo element.
