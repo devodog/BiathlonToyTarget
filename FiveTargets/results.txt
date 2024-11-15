@@ -1,0 +1,17 @@
+Start nr1: 00:03:01.96 s
+Start nr2: 00:00:29.33 s
+Start nr3: 00:00:20.05 s
+Start nr4: 00:00:26.79 s
+Start nr5: 00:00:28.93 s
+Start nr6: 00:00:27.23 s
+Start nr7: 00:01:19.60 s
+Start nr8: 00:00:26.33 s
+Start nr9: 00:00:44.39 s
+Start nr10: 00:00:14.78 s
+Start nr11: 00:00:57.99 s
+Ole Brumm: 03:01.96
+Ole Brumm: 03:01.96
+Ole Brumm: 03:01.96
+Snurre Sprett: 00:29.33
+Petter Smart: 00:20.05
+Petter Nortug: 00:26.79

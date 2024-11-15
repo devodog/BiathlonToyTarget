@@ -1,0 +1,29 @@
+Connect 2 usb-to-rs232 to 2 usb-ports on a pc
+Interconnect the 2 rs232 interfaces with a crossover cable.
+
+Launce the cmd (command line prompt in Windows) and enter the directory 
+fiveTargets. This directory that should contain the following files:
+sim.py
+start.py
+testdata.txt
+and this file testManus.txt
+
+Launche a seconf cmd and and enter the same directory, fiveTargets.
+In cmd #1 enter the following command: C:\Users\user\fiveTarget>py sim.py
+In cmd #2 enter the following command: C:\Users\user\fiveTarget>py start.py
+
+open browser with http://localhost/midtskips.no/uiaod/index.html
+or
+open browser with http://midtskips.no/uiaod/index.html
+
+Test execution:
+In cmd #2 enter a name
+in cmd #1 enter the command: send
+
+Check:
+Verify that the web page at ...midtskips.no/uiaod/index.html has been updated 
+with the name entered with a new time
+
+repeat the test execution 10 times
+
+ 

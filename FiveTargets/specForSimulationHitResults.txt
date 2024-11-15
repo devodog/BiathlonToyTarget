@@ -1,0 +1,5 @@
+Can you suggest a python script that provides a user command prompt that is to handle two 
+commands, "send" or "exit". The exit command is to terminate the script, but the
+send command should read one line from a text file, named testdata.txt, and send this to 
+com port in windows. For each send command the script shall read the next line and send this
+also to the com port, until it reads end of file, which will terminate the script.
